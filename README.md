@@ -1,8 +1,3 @@
-# xinerji_technologies
+# Flutter Example
 
-Xinerji
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+A Flutter Application That Can Move The Icon On The Screen
